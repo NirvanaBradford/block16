@@ -1,0 +1,11 @@
+section {
+  width: 400px;
+}
+
+h1 {
+  margin-left: 100px;
+}
+
+li:nth-child(even) {
+  background-color: gainsboro;
+}
